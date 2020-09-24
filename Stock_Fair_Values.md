@@ -2,8 +2,9 @@
 
 ### Note: Negative numbers in `Discount % (-17.47%)` means over price or over value.
 
-| Morningstar Updated | Ticker | Fair Value | Market Price | Discount $ | Discount % | Price Date | Out of Date |
+| Morningstar Updated | Ticker | Fair Value | Market Price | Discount $ | Discount % | Query Date | Out of Date |
 |---------------------|--------|------------|--------------|------------|------------|------------|-------------|
+| 2020-09-15          | APPL   | $71.00     | $107.12      | $36.12     | -50.87%    | 9/21/2020  | 6           |
 | 2020-09-14          | BA     | $264.00    | $161.14      | $102.86    | 38.96%     | 9/20/2020  | 6           |
 | 2020-06-15          | COST   | $286.00    | $335.96      | $49.96     | -17.47%    | 9/20/2020  | 97          |
 | 2020-08-13          | DIS    | $127.00    | $128.63      | $1.63      | -1.28%     | 9/20/2020  | 38          |
