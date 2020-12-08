@@ -8,10 +8,10 @@
 |------------------------------------------------|----------------|--------------------------|---------------|------------|---------|
 | TRP EQUITY INCOME                              | 2006-09-08     | Stock                    | Large Cap     |            | 0.5000% |
 | TRP GROWTH STOCK                               | 2006-03-31     | Stock                    | Large Cap     |            | 0.4000% |
-| VANGUARD INST INDEX (VIIIX)                    | 1990-07-31     | Stock                    | Large Cap     | 40%        | 0.0200% |
+| VANG INST INDEX TR                             | 1990-07-31     | Stock                    | Large Cap     | 40%        | 0.0150% |
 | AMG TS MID CP GTH IS (TMDIX)                   | 2005-03-03     | Stock                    | Mid Cap       |            | 0.7000% |
 | TRP US MDCP VAL EQ                             | 2012-01-13     | Stock                    | Mid Cap       |            | 0.6400% |
-| VANG EXT MKT IDX INS (VIEIX)                   | 1987-12-21     | Stock                    | Mid Cap       | 20%        | 0.0500% |
+| VANG EXT MKT IDX TR                            | 1987-12-21     | Stock                    | Mid Cap       | 20%        | 0.0400% |
 | CONESTOGA SM CAP TR                            | 2017-11-30     | Stock                    | Small Cap     | 20%        | 0.7900% |
 | WB SMALL CAP VALUE S                           |                | Stock                    | Small Cap     |            | 0.8600% |
 | AF EUROPAC GROWTH R6 (RERGX)                   | 1984-04-16     | Stock                    | International |            | 0.4600% |
