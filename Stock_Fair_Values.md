@@ -27,3 +27,16 @@
 | 2021-04-26     | TSLA   | Very High   | $354.00    | $589.74      | $235.74    | -66.59%    | 23.89  | 24.69      | 34.05  | 17.32      | 5/16/2021 | 20   |
 | 2021-04-28     | WFC    | Medium      | $52.00     | $46.96       | $5.04      | 9.69%      | 40.17  | 1.17       | 39.90  | 1.18       | 5/16/2021 | 18   |
 |                |        |             |            |              |            |            |        |            |        |            |           |      |
+
+<br>
+
+https://www.gurufocus.com/stock-market-valuations.php
+
+As of 2021-05-15 03:05:03 PM CDT (updates daily):
+The Stock Market is Significantly Overvalued according to Buffett Indicator. Based on the historical ratio of total market cap over GDP (currently at 196.9%), it is likely to return -2.9% a year from this level of valuation, including dividends.
+
+Meanwhile, based on the historical ratio of newly introduced total market cap over GDP plus Total Asset of Federal Reserve Banks (currently at 145.5%), the stock market is Significantly Overvalued, and it is likely to return -1.2% a year from this level of valuation, including dividends.
+
+Note: Starting from 12/07/2020, we introduced a new indicator, TMC / (GDP + Total Assets of Fed) ratio to calculate the implied future return.
+
+<br>
