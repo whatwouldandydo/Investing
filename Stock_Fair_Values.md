@@ -1,41 +1,41 @@
 # Tracking Stock Fair Values and their discount rates over time
 
-### Note: Negative numbers in `Discount % -17.47%` means over price or overvalue at 17.47%. `BVPS = Book Value Per Share`, `Valuation = Price-To-Book Ratio`. BVPS1 and Valuation1 sourced from MorningStars. BVPS2 and Valuation2 sourced from Value Line.
+### Note: `BVPS = Book Value Per Share`, `Valuation = Price-To-Book Ratio`. BVPS1 and Valuation1 sourced from MorningStars. BVPS2 and Valuation2 sourced from Value Line.
 
 <br>
 
 | FairValue Date | Ticker | Uncertainty | Fair Value | Market Price | Discount $ | Discount % | BVPS1  | Valuation1 | BVPS2  | Valuation2 | Update    | Days |
 |----------------|--------|-------------|------------|--------------|------------|------------|--------|------------|--------|------------|-----------|------|
-| 2021-04-29     | AMZN   | High        | $4,200.00  | $3,203.08    | $996.92    | 23.74%     | 204.87 | 15.63      | 246.45 | 13.00      | 5/22/2021 | 23   |
-| 2021-05-11     | AAPL   | High        | $115.00    | $125.43      | $10.43     | -9.07%     | 4.15   | 30.22      | 4.75   | 26.41      | 5/22/2021 | 11   |
-| 2021-05-11     | BA     | Very High   | $257.00    | $234.82      | $22.18     | 8.63%      | -30.88 | -7.60      | -23.35 | -10.06     | 5/22/2021 | 11   |
-| 2021-03-29     | COST   | Medium      | $332.00    | $380.72      | $48.72     | -14.67%    | 35.37  | 10.76      | 40.30  | 9.45       | 5/22/2021 | 54   |
-| 2021-05-13     | DIS    | High        | $154.00    | $172.40      | $18.40     | -11.95%    | 46.31  | 3.72       | 52.50  | 3.28       | 5/22/2021 | 9    |
-| 2021-04-29     | EQIX   | High        | $520.00    | $725.22      | $205.22    | -39.47%    | 118.08 | 6.14       | 127.20 | 5.70       | 5/22/2021 | 23   |
-| 2021-04-27     | GE     | High        | $15.30     | $13.23       | $2.07      | 13.53%     | 3.83   | 3.45       | 4.35   | 3.04       | 5/22/2021 | 25   |
-| 2021-05-10     | GOOG   | High        | $2,925.00  | $2,345.10    | $579.90    | 19.83%     | 343.22 | 6.83       | 410.95 | 5.71       | 5/22/2021 | 12   |
-| 2021-05-10     | GOOGL  | High        | $2,925.00  | $2,294.13    | $630.87    | 21.57%     | 343.22 | 6.68       | 410.95 | 5.58       | 5/22/2021 | 12   |
-| 2021-05-10     | HSY    | Medium      | $139.00    | $173.76      | $34.76     | -25.01%    | 10.90  | 15.94      | 13.55  | 12.82      | 5/22/2021 | 12   |
-| 2021-05-11     | JNJ    | Low         | $158.00    | $170.96      | $12.96     | -8.20%     | 25.00  | 6.84       | 29.25  | 5.84       | 5/22/2021 | 11   |
-| 2021-05-06     | K      | Medium      | $82.00     | $66.50       | $15.50     | 18.90%     | 9.21   | 7.22       | 11.65  | 5.71       | 5/22/2021 | 16   |
-| 2021-05-11     | KO     | Low         | $55.00     | $54.62       | $0.38      | 0.69%      | 4.72   | 11.57      | 4.85   | 11.26      | 5/22/2021 | 11   |
-| 2021-05-11     | MMM    | Medium      | $199.00    | $201.86      | $2.86      | -1.44%     | 23.74  | 8.50       | 22.80  | 8.85       | 5/22/2021 | 11   |
-| 2021-05-11     | MSFT   | Medium      | $278.00    | $245.17      | $32.83     | 11.81%     | 17.86  | 13.73      | 18.60  | 13.18      | 5/22/2021 | 11   |
-| 2021-03-10     | ORCL   | Medium      | $58.00     | $79.03       | $21.03     | -36.26%    | 3.09   | 25.58      | 2.50   | 31.61      | 5/22/2021 | 73   |
-| 2021-05-04     | SABR   | High        | $17.10     | $12.80       | $4.30      | 25.15%     | 0.08   | 160.00     | 1.95   | 6.56       | 5/22/2021 | 18   |
-| 2021-05-04     | TMUS   | High        | $130.00    | $136.05      | $6.05      | -4.65%     | 53.24  | 2.56       | 60.00  | 2.27       | 5/22/2021 | 18   |
-| 2021-04-26     | TSLA   | Very High   | $354.00    | $580.88      | $226.88    | -64.09%    | 23.89  | 24.31      | 34.05  | 17.06      | 5/22/2021 | 26   |
-| 2021-04-28     | WFC    | Medium      | $52.00     | $45.88       | $6.12      | 11.77%     | 40.17  | 1.14       | 39.90  | 1.15       | 5/22/2021 | 24   |
+| 2021-05-26     | AMZN   | High        | $4,200.00  | $3,223.07    | $976.93    | -23.26%    | 204.87 | 15.73      | 246.45 | 13.08      | 5/30/2021 | 4    |
+| 2021-05-11     | AAPL   | High        | $115.00    | $124.61      | $9.61      | 8.36%      | 4.15   | 30.03      | 4.75   | 26.23      | 5/30/2021 | 19   |
+| 2021-05-11     | BA     | Very High   | $257.00    | $247.02      | $9.98      | -3.88%     | -30.88 | -8.00      | -23.55 | -10.49     | 5/30/2021 | 19   |
+| 2021-05-27     | COST   | Medium      | $332.00    | $378.27      | $46.27     | 13.94%     | 35.37  | 10.69      | 41.75  | 9.06       | 5/30/2021 | 3    |
+| 2021-05-13     | DIS    | High        | $154.00    | $178.65      | $24.65     | 16.01%     | 46.31  | 3.86       | 52.50  | 3.40       | 5/30/2021 | 17   |
+| 2021-04-29     | EQIX   | High        | $520.00    | $736.72      | $216.72    | 41.68%     | 118.08 | 6.24       | 127.20 | 5.79       | 5/30/2021 | 31   |
+| 2021-04-27     | GE     | High        | $15.70     | $14.06       | $1.64      | -10.45%    | 3.83   | 3.67       | 4.35   | 3.23       | 5/30/2021 | 33   |
+| 2021-05-10     | GOOG   | High        | $2,925.00  | $2,411.56    | $513.44    | -17.55%    | 343.22 | 7.03       | 410.95 | 5.87       | 5/30/2021 | 20   |
+| 2021-05-10     | GOOGL  | High        | $2,925.00  | $2,356.85    | $568.15    | -19.42%    | 343.22 | 6.87       | 410.95 | 5.74       | 5/30/2021 | 20   |
+| 2021-05-10     | HSY    | Medium      | $139.00    | $173.05      | $34.05     | 24.50%     | 10.90  | 15.88      | 13.60  | 12.72      | 5/30/2021 | 20   |
+| 2021-05-11     | JNJ    | Low         | $158.00    | $169.25      | $11.25     | 7.12%      | 25.00  | 6.77       | 28.75  | 5.89       | 5/30/2021 | 19   |
+| 2021-05-06     | K      | Medium      | $82.00     | $65.49       | $16.51     | -20.13%    | 9.21   | 7.11       | 10.70  | 6.12       | 5/30/2021 | 24   |
+| 2021-05-11     | KO     | Low         | $55.00     | $55.29       | $0.29      | 0.53%      | 4.72   | 11.71      | 4.55   | 12.15      | 5/30/2021 | 19   |
+| 2021-05-11     | MMM    | Medium      | $199.00    | $203.04      | $4.04      | 2.03%      | 23.74  | 8.55       | 22.80  | 8.91       | 5/30/2021 | 19   |
+| 2021-05-11     | MSFT   | Medium      | $278.00    | $249.68      | $28.32     | -10.19%    | 17.86  | 13.98      | 18.60  | 13.42      | 5/30/2021 | 19   |
+| 2021-03-10     | ORCL   | Medium      | $58.00     | $78.74       | $20.74     | 35.76%     | 3.09   | 25.48      | 2.50   | 31.50      | 5/30/2021 | 81   |
+| 2021-05-04     | SABR   | High        | $17.10     | $13.85       | $3.25      | -19.01%    | 0.08   | 173.13     | 1.95   | 7.10       | 5/30/2021 | 26   |
+| 2021-05-04     | TMUS   | High        | $130.00    | $141.45      | $11.45     | 8.81%      | 53.24  | 2.66       | 60.00  | 2.36       | 5/30/2021 | 26   |
+| 2021-04-26     | TSLA   | Very High   | $354.00    | $625.22      | $271.22    | 76.62%     | 23.89  | 26.17      | 34.05  | 18.36      | 5/30/2021 | 34   |
+| 2021-04-28     | WFC    | Medium      | $52.00     | $46.72       | $5.28      | -10.15%    | 40.17  | 1.16       | 39.90  | 1.17       | 5/30/2021 | 32   |
 |                |        |             |            |              |            |            |        |            |        |            |           |      |
 
 <br>
 
 https://www.gurufocus.com/stock-market-valuations.php
 
-As of 2021-05-22 03:05:03 PM CDT (updates daily):
-The Stock Market is Significantly Overvalued according to Buffett Indicator. Based on the historical ratio of total market cap over GDP (currently at 196.5%), it is likely to return -2.9% a year from this level of valuation, including dividends.
+As of 2021-05-30 03:05:04 PM CDT (updates daily):
+The Stock Market is Significantly Overvalued according to Buffett Indicator. Based on the historical ratio of total market cap over GDP (currently at 199.4%), it is likely to return -3.1% a year from this level of valuation, including dividends.
 
-Meanwhile, based on the historical ratio of newly introduced total market cap over GDP plus Total Asset of Federal Reserve Banks (currently at 145.2%), the stock market is Significantly Overvalued, and it is likely to return -1.2% a year from this level of valuation, including dividends.
+Meanwhile, based on the historical ratio of newly introduced total market cap over GDP plus Total Asset of Federal Reserve Banks (currently at 147.4%), the stock market is Significantly Overvalued, and it is likely to return -1.3% a year from this level of valuation, including dividends.
 
 Note: Starting from 12/07/2020, we introduced a new indicator, TMC / (GDP + Total Assets of Fed) ratio to calculate the implied future return. 
 
